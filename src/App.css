@@ -1,0 +1,13 @@
+.all {
+    flex: 1;
+    min-height: 100vh;
+}
+.dark {
+    background-color: black;
+     color: lawngreen;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
