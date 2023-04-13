@@ -1,6 +1,6 @@
 {
-  "name": "mireez-portfolio",
-  "homepage": "https://mireezeidan.github.io/miree-react-portfolio",
+  "homepage": "https://mireezeidan.github.io/miree-react-portfolio/",
+  "name": "miree-react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,7 +8,6 @@
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^13.5.0",
-    "gh-pages": "^5.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-pdf": "^6.2.2",
@@ -41,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
