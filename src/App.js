@@ -5,7 +5,7 @@ import Contact from "./components/Contact";
 import Project from "./components/Project";
 import "./App.css";
 import "./Normalize.css";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 
 function App() {
   const [theme, setTheme] = useState("dark");
