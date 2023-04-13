@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/miree-react-portfolio/static/css/main.86b00b3b.css",
-    "main.js": "/miree-react-portfolio/static/js/main.c4a5d949.js",
+    "main.js": "/miree-react-portfolio/static/js/main.5107727e.js",
     "static/media/future-finder.png": "/miree-react-portfolio/static/media/future-finder.0cc25514d765571859b6.png",
     "static/media/weather-dashboard.png": "/miree-react-portfolio/static/media/weather-dashboard.f63e423986fda156e3c2.png",
     "static/media/coding-quiz.png": "/miree-react-portfolio/static/media/coding-quiz.f6781a302de09385bfe3.png",
@@ -12,10 +12,10 @@
     "static/media/resume.png": "/miree-react-portfolio/static/media/resume.129c6fbe782fd2373a9f.png",
     "index.html": "/miree-react-portfolio/index.html",
     "main.86b00b3b.css.map": "/miree-react-portfolio/static/css/main.86b00b3b.css.map",
-    "main.c4a5d949.js.map": "/miree-react-portfolio/static/js/main.c4a5d949.js.map"
+    "main.5107727e.js.map": "/miree-react-portfolio/static/js/main.5107727e.js.map"
   },
   "entrypoints": [
     "static/css/main.86b00b3b.css",
-    "static/js/main.c4a5d949.js"
+    "static/js/main.5107727e.js"
   ]
 }
